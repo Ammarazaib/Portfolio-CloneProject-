@@ -11,4 +11,4 @@ Basic styling with colors, fonts, and spacing
 Beginner-friendly and easy to understand code
 
 ## Project ScreenShot
-![Portfolio clone Project] (ProjectSS.png)
+![Portfolio clone Project](ProjectSS.png)
